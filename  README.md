@@ -13,3 +13,10 @@ I am working on the Javascript part for this assignment. I was having trouble wi
 
 1/26/25
 Currently picking up where I left off. I have coded all of my code for the project but there seems to be an error somewhere because when I run it in the live server the browser is blank, the game doesn't run. So i will be taking my time looking over my code to figure out what the error is.
+
+1:05pm
+I can not seem to fix this error that keeps coming up in my assignment. Getting a little frustrated.
+fixing all of my code again.
+
+1:55pm.
+I can not fix the error that is coming up when i run the game on the live server. So i know I will get a low grade. ugh!
